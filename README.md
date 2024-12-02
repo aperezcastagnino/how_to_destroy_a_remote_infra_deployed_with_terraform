@@ -1,4 +1,4 @@
-### THIS IS A KIND OF RED BUTTON ###
+# THIS IS A KIND OF RED BUTTON 
 
 If at some point in your life, you delete your infra folder with all your Terraform files inside, and because you are a skilled programmer, you were in a state of pure excitement and, to prove you feared nothing, you deleted it with sudo rm -R, well, you're beyond blame, my friend.
 

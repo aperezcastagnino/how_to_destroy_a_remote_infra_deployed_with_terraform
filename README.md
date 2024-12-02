@@ -1,4 +1,4 @@
-# How to destroy a remote infra deployed with Terraform using the remote tfstate
+# How to destroy a remote infra deployed with Terraform
 
 ### THIS IS A KIND OF RED BUTTON
 
